@@ -1,3 +1,3 @@
 学习笔记
 
-1. TBD
+1. Add ssh key to GitHub
